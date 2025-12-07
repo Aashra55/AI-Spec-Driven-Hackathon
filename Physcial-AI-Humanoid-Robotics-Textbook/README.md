@@ -1,20 +1,36 @@
-I have successfully created and ratified the constitution for the "Physical AI & Humanoid Robotics Textbook" project.
+# Physical AI & Humanoid Robotics Textbook
 
-- **New Constitution**: The constitution has been created at `.specify/memory/constitution.md` and initialized at version `1.0.0`. It establishes five core principles: Clarity and Accessibility, Technical Accuracy and Rigor, Open-Source and Collaborative, Practical Application and Hands-On Learning, and a Maintainable and Extensible Platform.
+This repository hosts the content and development for the "Physical AI & Humanoid Robotics Textbook," a comprehensive, hands-on guide bridging the gap between digital AI and its physical embodiment in robots. It covers principles and practices for perceiving, interacting with, and acting in the physical world.
 
-- **No Manual Follow-up Needed**: I have verified that the existing project templates for plans, specs, and tasks are compatible with the new constitution.
+The book is structured into four modules, leading readers from foundational concepts to advanced topics in embodied intelligence:
+- Module 1: The Robotic Nervous System (ROS 2)
+- Module 2: The Digital Twin (Gazebo & Unity)
+- Module 3: The AI-Robot Brain (NVIDIA Isaac)
+- Module 4: Vision-Language-Action (VLA)
 
-- **Prompt History Record**: A record of this operation has been created at `history/prompts/constitution/001-create-project-constitution-for-robotics-textbook.constitution.prompt.md`.
+## Getting Started (for contributors)
 
-All changes have been committed. You can view the commit with the following message:
+This book is built using [Docusaurus](https://docusaurus.io/). To set up the development environment and run the book locally:
 
-```
-feat: establish project constitution v1.0.0
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/AI-Spec-Driven-Hackathon/Physical-AI-Humanoid-Robotics-Textbook.git
+    cd Physical-AI-Humanoid-Robotics-Textbook
+    ```
+2.  **Navigate to the website directory:**
+    ```bash
+    cd website
+    ```
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
+4.  **Start the development server:**
+    ```bash
+    npm start
+    ```
+    This will open the book in your browser at `http://localhost:3000`.
 
-Establishes the foundational governance and principles for the project.
+## Contribution
 
-- Initializes the constitution at v1.0.0.
-- Defines five core principles: Clarity, Accuracy, Open-Source, Practical Application, and Maintainability.
-- Establishes Docusaurus as the core technology and defines a content workflow.
-- Creates the initial Prompt History Record (PHR) for this action.
-```
+We welcome contributions to the textbook. Please refer to the [Contributing Guidelines](CONTRIBUTING.md) (to be created) for more information.
