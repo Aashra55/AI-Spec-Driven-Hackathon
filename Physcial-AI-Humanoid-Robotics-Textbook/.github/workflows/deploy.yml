@@ -40,7 +40,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # 👇 Specify build output path
-          path: website/build
+          path: Physical-AI-Humanoid-Robotics-Textbook/website/build
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
