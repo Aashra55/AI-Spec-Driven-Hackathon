@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/AI-Spec-Driven-Hackathon/Physical-AI-Humanoid-Robotics-Textbook/tree/main/website/',
+            'https://github.com/Aashra55/AI-Spec-Driven-Hackathon/tree/main/Physcial-AI-Humanoid-Robotics-Textbook/tree/main/website/',
         },
         blog: {
           showReadingTime: true,
@@ -61,7 +61,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/AI-Spec-Driven-Hackathon/Physical-AI-Humanoid-Robotics-Textbook/tree/main/website/',
+            'https://github.com/Aashra55/AI-Spec-Driven-Hackathon/tree/main/Physcial-AI-Humanoid-Robotics-Textbook/tree/main/website/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -96,7 +96,7 @@ const config = {
             label: 'Book',
           },
           {
-            href: 'https://github.com/AI-Spec-Driven-Hackathon/Physical-AI-Humanoid-Robotics-Textbook',
+            href: 'https://github.com/Aashra55/AI-Spec-Driven-Hackathon/tree/main/Physcial-AI-Humanoid-Robotics-Textbook',
             label: 'GitHub',
             position: 'right',
           },
@@ -140,7 +140,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Aashra55/AI-Spec-Driven-Hackathon/tree/main/Physcial-AI-Humanoid-Robotics-Textbook',
               },
             ],
           },
