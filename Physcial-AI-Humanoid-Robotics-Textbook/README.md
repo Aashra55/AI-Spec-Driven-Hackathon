@@ -67,4 +67,4 @@ The book content is licensed under a Creative Commons Attribution-ShareAlike 4.0
 
 ---
 
-Built with ❤️ by the AI-Spec-Driven-Hackathon team.
+Built with ❤️ by the Aashra Saleem.
